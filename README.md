@@ -38,7 +38,7 @@ EarthObservation/
 │ ├── label_extractor.py
 │ ├── train_model.py
 │
-├── EarthObservation.ipynb 
+├── Earth_Observation.ipynb 
 ├── requirements.txt 
 ├── README.md 
 ├── S1_Report.pdf
