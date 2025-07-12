@@ -57,7 +57,7 @@ Scenario-1-Earth-Observation/
   - Confusion matrix visualization
 - Plotted 5 correct and 5 incorrect predictions for qualitative analysis.
 
-Key libraries:
+## Libraries:
 
 geopandas, rasterio, shapely – for geospatial operations
 
@@ -67,7 +67,7 @@ sklearn, seaborn, matplotlib – for metrics & plots
 
 geemap, leafmap – for interactive mapping
 
-📊 Key Results
+## Outcomes
 Total valid image-label pairs: ✅ 3,613
 
 Achieved F1 Score (sklearn): ✅ ~0.30
@@ -78,7 +78,7 @@ Class distribution: moderately imbalanced (visualized).
 
 Grid and overlays successfully visualized with basemaps.
 
-📌 Author
+## 📌 Author
 Aakanksha Tiwari
 Sustainability Lab – Internship Application
 GitHub Profile
