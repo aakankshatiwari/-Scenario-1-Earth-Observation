@@ -79,7 +79,7 @@ Class distribution: moderately imbalanced (visualized).
 Grid and overlays successfully visualized with basemaps.
 
 ## 📌 Author
-Aakanksha Tiwari
+Aakanksha Tiwari |
 Sustainability Lab – Internship Application
-GitHub Profile
+
 
