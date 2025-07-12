@@ -1,4 +1,4 @@
-# Earth Observation Internship Project  
+# Earth Observation : Internship Selection Task 
 **Sustainability Lab – IIT Gandhinagar**  
 
 **Assignment Title:** Land Use Classification & Pollution Source Mapping in Delhi-NCR  
