@@ -20,23 +20,11 @@ The project involves building an end-to-end pipeline for land cover classificati
 ## 📂 Directory Structure
 
 
-EarthObservation/
+Scenario-1-Earth-Observation/
 │
-├── Data/ # Raw image files, shapefiles, and raster layers
+├── Data/ 
 │
-├── Visualizations/ # Saved confusion matrix, class plots, etc.
-│ └── class_distribution.png
-│
-├── Dataset/ # Final dataset with labels
-│ ├── image_label_map.csv
-│
-├── models/ # CNN model code (e.g., ResNet18)
-│ └── resnet_model.py
-│
-├── scripts/ # Helper scripts
-│ ├── grid_generator.py
-│ ├── label_extractor.py
-│ ├── train_model.py
+├── Images/
 │
 ├── Earth_Observation.ipynb 
 ├── requirements.txt 
